@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="79" tvg-name="Telecanal Talca" tvg-logo="https://www.m3u.cl/logo/79_Telecanal_Talca.png", Telecanal
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg", La Red
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://www.m3u.cl/logo/458_TV_.png", TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://www.m3u.cl/logo/54_UCV.png", UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png", Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="456" tvg-name="CHV" tvg-logo="https://www.m3u.cl/logo/456_CHV.png", CHV
+https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="445" tvg-name="Camara de Diputados" tvg-logo="https://www.m3u.cl/logo/445_Camara_de_Diputados.png", Cámara de Diputados
+https://tls-cl.cdnz.cl/camara/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png", TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="447" tvg-name="TVN 24 Horas" tvg-logo="https://www.m3u.cl/logo/447_TVN_24_Horas.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png", Meganoticias
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE", CNN Chile
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://www.m3u.cl/logo/1054_T13.png", T13
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="97669" tvg-name="CDO" tvg-logo="https://lh3.googleusercontent.com/-EBTv-wiVlJ0/XmPRkwNUmzI/AAAAAAAAwp0/TtmCkqZp7vkZx-6R9p3Q8Riqtxe3xltyACK8BGAsYHg/s0/2020-03-07.png", CDO
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="376" tvg-name="Teletrak" tvg-logo="https://www.m3u.cl/logo/376_Teletrak.png", Teletrak | CL
+https://unlimited1-cl-isp.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://www.m3u.cl/logo/45_NTV.png", NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://www.m3u.cl/logo/854_TV_Quinta_Region.png", TV Quinta Región
+https://Stmv1.zcastbr.com/danielg/danielg/playlist.m3u8?PlaylistM3UCL
